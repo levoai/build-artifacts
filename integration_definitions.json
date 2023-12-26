@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Github",
+    "key": "github",
+    "icon": "github.svg",
+    "version": "0.1.9",
+    "releaseStage": "ALPHA",
+    "sourceUrl": "https://raw.githubusercontent.com/poozlehq/build-artifacts/main/ticketing/github/0.1.9/index.js",
+    "integrationType": "TICKETING"
+  },
+  {
+    "name": "Jira",
+    "key": "jira",
+    "icon": "jira.svg",
+    "version": "0.1.12",
+    "releaseStage": "ALPHA",
+    "sourceUrl": "https://raw.githubusercontent.com/levoai/build-artifacts/main/ticketing/jira/0.1.12/index.js",
+    "integrationType": "TICKETING"
+  },
+  {
+    "name": "Gmail",
+    "key": "gmail",
+    "icon": "gmail.svg",
+    "version": "0.1.6",
+    "releaseStage": "ALPHA",
+    "sourceUrl": "https://raw.githubusercontent.com/poozlehq/build-artifacts/main/mail/gmail/0.1.6/index.js",
+    "integrationType": "MAIL"
+  },
+  {
+    "name": "Notion",
+    "key": "notion",
+    "icon": "notion.svg",
+    "version": "0.1.10",
+    "releaseStage": "ALPHA",
+    "sourceUrl": "https://raw.githubusercontent.com/poozlehq/build-artifacts/main/documentation/notion/0.1.10/index.js",
+    "integrationType": "DOCUMENTATION"
+  },
+  {
+    "name": "Google Drive",
+    "key": "google_drive",
+    "icon": "google_drive.svg",
+    "version": "0.1.1",
+    "releaseStage": "ALPHA",
+    "sourceUrl": "https://raw.githubusercontent.com/poozlehq/build-artifacts/main/storage/google_drive/0.1.1/index.js",
+    "integrationType": "STORAGE"
+  },
+  {
+    "name": "Google Calendar",
+    "key": "google_calendar",
+    "icon": "google_calendar.svg",
+    "version": "0.1.0",
+    "releaseStage": "ALPHA",
+    "sourceUrl": "https://raw.githubusercontent.com/poozlehq/build-artifacts/main/calendar/google_calendar/0.1.0/index.js",
+    "integrationType": "CALENDAR"
+  },
+  {
+    "name": "Confluence",
+    "key": "confluence",
+    "icon": "confluence.svg",
+    "version": "0.1.1",
+    "releaseStage": "ALPHA",
+    "sourceUrl": "https://raw.githubusercontent.com/poozlehq/build-artifacts/main/documentation/confluence/0.1.1/index.js",
+    "integrationType": "DOCUMENTATION"
+  },
+  {
+    "name": "Stripe",
+    "key": "stripe",
+    "icon": "stripe.svg",
+    "version": "0.1.1",
+    "releaseStage": "ALPHA",
+    "sourceUrl": "https://raw.githubusercontent.com/poozlehq/build-artifacts/main/payments/stripe/0.1.1/index.js",
+    "integrationType": "PAYMENTS"
+  }
+]
