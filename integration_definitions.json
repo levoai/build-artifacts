@@ -12,9 +12,9 @@
     "name": "Jira",
     "key": "jira",
     "icon": "jira.svg",
-    "version": "0.1.12",
+    "version": "0.1.9",
     "releaseStage": "ALPHA",
-    "sourceUrl": "https://raw.githubusercontent.com/levoai/build-artifacts/main/ticketing/jira/0.1.12/index.js",
+    "sourceUrl": "https://raw.githubusercontent.com/levoai/build-artifacts/main/ticketing/jira/0.1.9.3/index.js",
     "integrationType": "TICKETING"
   },
   {
